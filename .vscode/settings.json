@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/Users/oguzaytekin/orbs/orb3/bin/python",
+  "python.pythonPath": "/Users/oguzaytekin/orbs/orb3/bin/python",
+  "python-envs.defaultEnvManager": "ms-python.python:system"
+}
